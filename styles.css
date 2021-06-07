@@ -50,11 +50,15 @@ h6{
 
 .row2{
     display: grid;
-    grid-template-columns: repeat(3, 350px);
+    grid-template-columns: repeat(2, 300px);
 }
 
-.row3{
-    display: block;
+.card-text{
+    text-align: center;
+    font-size: 14px;
 }
 
+.text22{
+    font-size: 11px;
+}
 
